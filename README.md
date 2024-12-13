@@ -54,6 +54,6 @@ The queries address the following real-world scenarios:
 
 📜 classicmodels_database.sql # Classic Models Database file
 
-📜 SQL_Assignment_Completed- Lubna Zainab.sql # Original unmodified file for reference
+📜 sql_assignment_completed- Lubna Zainab.sql # Original unmodified file for reference
 
 
